@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shirinvn&repo=shirinVn)](https://github.com/shirinvn/shirinVn)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=gistfile1.txt)](https://gist.github.com/shirinvn/gistfile1.txt/)
+
 
